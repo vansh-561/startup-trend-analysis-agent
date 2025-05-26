@@ -36,6 +36,9 @@ Create a `.env` file in the root directory with the following variables:
 GOOGLE_API_KEY=your_google_api_key
 TAVILY_API_KEY=your_tavily_api_key
 ```
+![Screenshot (113)](https://github.com/user-attachments/assets/0eda4da3-27d7-4e91-94c2-c2e651217afa)
+![Screenshot (111)](https://github.com/user-attachments/assets/663d244d-e85c-4ddc-8811-a5198e220461)
+![Screenshot (112)](https://github.com/user-attachments/assets/b438b795-74f4-43e6-8107-a1bf7504ba91)
 
 ## 🚀 Usage
 
