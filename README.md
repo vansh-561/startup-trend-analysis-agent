@@ -21,7 +21,7 @@ A comprehensive AI-powered tool for analyzing startup trends, market opportuniti
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-startup-trend-analysis-agent.git
+git clone https://github.com/vansh-561/ai-startup-trend-analysis-agent.git
 cd ai-startup-trend-analysis-agent
 ```
 
