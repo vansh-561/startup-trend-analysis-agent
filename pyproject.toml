@@ -1,0 +1,28 @@
+[project]
+name = "ai-startup-trend-analysis-agent"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "vansh-561",email = "vanshagrawal561@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13,<4.0"
+dependencies = [
+    "streamlit (>=1.45.1,<2.0.0)",
+    "langchain (>=0.3.25,<0.4.0)",
+    "langchain-google-genai (>=2.1.4,<3.0.0)",
+    "langchain-community (>=0.3.24,<0.4.0)",
+    "langgraph (>=0.4.7,<0.5.0)",
+    "tavily-python (>=0.7.2,<0.8.0)",
+    "python-dotenv (>=1.1.0,<2.0.0)",
+    "typing-extensions (>=4.13.2,<5.0.0)",
+    "pydantic (>=2.11.5,<3.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "ai_startup_trend_analysis_agent", from = "src"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
